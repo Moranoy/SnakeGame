@@ -1,0 +1,5 @@
+DIVIDE,Collect a number whose division by % gives a residue of %
+GRTLT,Collect a number greater than % but lesser than %
+ODDEVEN,Collect an % number
+POWER,Collect % ^ %
+EQUATION,Solve the equation
